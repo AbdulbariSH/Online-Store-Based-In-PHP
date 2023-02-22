@@ -1,9 +1,9 @@
 <?php
 
-/*
-  This is Class Of Cart.
-
-  Copyright (c) 2023 AbdulbariSH
+/** 
+ * This is Class Of Cart.
+ * 
+ * Copyright (c) 2023 AbdulbariSH
  */
 class Cart
 {

@@ -1,9 +1,10 @@
 <?php
 
-/*
-This is Class Of User.
-Copyright (c) 2023 AbdulbariSH
-*/
+/** 
+ * This is Class Of User.
+ * 
+ * Copyright (c) 2023 AbdulbariSH
+ */
 
 class User
 {

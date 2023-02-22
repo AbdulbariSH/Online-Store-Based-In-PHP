@@ -1,9 +1,9 @@
 <?php
 
-/*
-  This is Class Of Product.
-
-  Copyright (c) 2023 AbdulbariSH
+/** 
+ * This is Class Of Products.
+ * 
+ * Copyright (c) 2023 AbdulbariSH
  */
 require_once 'class/class.Product.php';
 

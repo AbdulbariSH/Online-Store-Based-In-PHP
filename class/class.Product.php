@@ -1,5 +1,9 @@
 <?php
-
+/** 
+ * This is Class Of Product.
+ * 
+ * Copyright (c) 2023 AbdulbariSH
+ */
 class Product
 {
     /**

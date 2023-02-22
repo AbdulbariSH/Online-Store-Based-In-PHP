@@ -1,9 +1,10 @@
 <?php
 
-/*
-This is Class Of Product.
-Copyright (c) 2023 AbdulbariSH
-*/
+/** 
+ * This is Class Of Database.
+ * 
+ * Copyright (c) 2023 AbdulbariSH
+ */
 
 class Database
 {
