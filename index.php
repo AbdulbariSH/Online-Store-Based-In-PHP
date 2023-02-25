@@ -39,7 +39,7 @@ $cart = new Cart([
     // Maximum quantity of a item can be added to cart, 0 = Unlimited
     'itemMaxQuantity' => 5,
 
-    // Do not use cookie, cart items will gone after browser closed
+    // User info
     'UserInfo' => $UserInfo,
 ]);
 
